@@ -58,5 +58,4 @@ dependencies {
 	compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.13'
 	compileOnly 'javax:javaee-api:7.0'
 
-
 }
