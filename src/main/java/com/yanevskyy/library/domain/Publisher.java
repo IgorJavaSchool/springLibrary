@@ -17,6 +17,7 @@ import java.util.List;
 @DynamicInsert
 @SelectBeforeUpdate
 @Entity
+
 public class Publisher {
 
     @Id
