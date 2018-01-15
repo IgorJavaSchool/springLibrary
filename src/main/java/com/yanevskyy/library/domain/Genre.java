@@ -17,6 +17,7 @@ import java.util.List;
 @SelectBeforeUpdate
 @Entity
 @Getter @Setter
+
 public class Genre {
 
     @Id
