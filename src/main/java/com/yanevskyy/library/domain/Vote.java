@@ -18,6 +18,7 @@ import java.util.Date;
 @DynamicUpdate
 @DynamicInsert
 @SelectBeforeUpdate
+
 public class Vote {
 
     @GeneratedValue(strategy = GenerationType.IDENTITY)
