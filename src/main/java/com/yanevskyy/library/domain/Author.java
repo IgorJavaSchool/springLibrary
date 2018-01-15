@@ -18,7 +18,6 @@ import java.util.List;
 @DynamicUpdate
 @DynamicInsert
 @SelectBeforeUpdate
-
 public class Author {
 
     @GeneratedValue(strategy = GenerationType.IDENTITY)
